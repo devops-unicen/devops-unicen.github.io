@@ -23,6 +23,15 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
 <!-- * Alejandro Perez (ajperez@exa.unicen.edu.ar) -->
 
+## Lista de Distribución
+* [Lista Web TUPAR](https://groups.google.com/forum/#!forum/web-tupar)
+
+## Slides
+* [Intro a la Materia](https://docs.google.com/presentation/d/1cKNHMouFVnLyVN2r84s5ZPp4qrBTmOy6EnGaP0Zcp5Y/edit?usp=sharing)
+* [Intro DevOps](https://docs.google.com/presentation/d/1NiAHg6OEWfenwKpXPR4GuF6BSpzooSRygwuvcb5zXNA/edit?usp=sharing)
+* [Docker](https://docs.google.com/presentation/d/1Vy6YNAyf0m4TxSnXgDZQ6to3enJ4sABaNypviw_ApI0/edit?usp=sharing)
+* [GIT]()
+
 ## Aprobación de la materia
 Buscar/Crear un aplicación Open Source e implementar todo el ambiente de Dev Ops.
 * Docker Image
