@@ -26,6 +26,8 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 ## Lista de Distribución
 * [Lista Web TUPAR](https://groups.google.com/forum/#!forum/web-tupar)
 
+## TP Especial
+* [Planilla TP](https://docs.google.com/spreadsheets/d/1RZGINbcWps2Lm-d0Z0b-RoO-KRC3PB8GWJDxGUBf_8Q/edit?usp=sharing)
 ## Slides
 * [Intro a la Materia](https://docs.google.com/presentation/d/1cKNHMouFVnLyVN2r84s5ZPp4qrBTmOy6EnGaP0Zcp5Y/edit?usp=sharing)
 * [Intro DevOps](https://docs.google.com/presentation/d/1NiAHg6OEWfenwKpXPR4GuF6BSpzooSRygwuvcb5zXNA/edit?usp=sharing)
