@@ -33,7 +33,7 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 * [Intro DevOps](https://docs.google.com/presentation/d/1NiAHg6OEWfenwKpXPR4GuF6BSpzooSRygwuvcb5zXNA/edit?usp=sharing)
 * [Docker](https://docs.google.com/presentation/d/1Vy6YNAyf0m4TxSnXgDZQ6to3enJ4sABaNypviw_ApI0/edit?usp=sharing)
 * [GIT](https://docs.google.com/presentation/d/1Zjg0tZ8OU1ZIfATVgRilxTdgDYOSC_lGRmHriaNdeqU/edit#slide=id.p73)
-
+* [Test + Continuous Integration](https://docs.google.com/presentation/d/1ilapjhoV9VMpNLqBgxlXnOyr_jnvc8qoB4fZphOeUeI/edit?usp=sharing)
 ## Aprobación de la materia
 Buscar/Crear un aplicación Open Source e implementar todo el ambiente de Dev Ops.
 * Docker Image
