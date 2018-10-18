@@ -45,6 +45,7 @@ Entrega acorde a la Planilla de TP.
 * [Test + Continuous Integration](https://docs.google.com/presentation/d/1ilapjhoV9VMpNLqBgxlXnOyr_jnvc8qoB4fZphOeUeI/edit?usp=sharing)
 * [Code Quality](https://docs.google.com/presentation/d/1VGrtGOMmbNy-BBryiNqyVNKUKV59wwhbnLZUjSRGRtY/edit?usp=sharing)
 * [Deployment](https://docs.google.com/presentation/d/1OaubIrUH7FYAnMmeA4aZJHnYOfZevtF0SYELhsAHR28/edit?usp=sharing)
+* [Docker Deployment + CD Advanced](https://docs.google.com/presentation/d/1Mwwik_7Pn8tg8RT4e45s-CHzqegYWCGTMHVB_yqMFeQ/edit?usp=sharing)
 ## Aprobación de la materia
 Buscar/Crear un aplicación Open Source e implementar todo el ambiente de Dev Ops.
 * Docker Image
