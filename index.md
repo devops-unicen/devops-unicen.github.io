@@ -23,6 +23,9 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
 <!-- * Alejandro Perez (ajperez@exa.unicen.edu.ar) -->
+### Invitados especiales (2018)
+* Matias Moran Losada
+* Martin Gallo
 
 ## Lista de Distribución
 * [Lista Web TUPAR](https://groups.google.com/forum/#!forum/web-tupar)
@@ -47,6 +50,11 @@ Entrega acorde a la Planilla de TP.
 * [Deployment](https://docs.google.com/presentation/d/1OaubIrUH7FYAnMmeA4aZJHnYOfZevtF0SYELhsAHR28/edit?usp=sharing)
 * [Docker Deployment + CD Advanced](https://docs.google.com/presentation/d/1Mwwik_7Pn8tg8RT4e45s-CHzqegYWCGTMHVB_yqMFeQ/edit?usp=sharing)
 * [Monitoring](https://docs.google.com/presentation/d/1Q__F1zU4AINvv-BlgXdw_VEjpuYcqviyOOxptU7bJoU/edit?usp=sharing)
+* [Arquitecturas cloud](https://docs.google.com/presentation/d/1Q1BTRNfa88YZ0IjT9eSyLmYQkwXWAmkGlBULNSYwA58/edit?usp=sharing)
+* [Seguridad](https://docs.google.com/presentation/d/1nt7FhkCwvfi7bWb1yP3fNTplQwJmdJZCdaJIVFOOjsg/edit?usp=sharing)
+
+
+
 ## Aprobación de la materia
 Buscar/Crear un aplicación Open Source e implementar todo el ambiente de Dev Ops.
 * Docker Image
