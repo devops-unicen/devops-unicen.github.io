@@ -11,10 +11,10 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 
 ## Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-1er Entrega del TP Especial Miercoles 31 de Octubre de 18 a 21hs
 
-### Fechas importante (2018)
-* Comienzo del curso: Miércoles 15 de Agosto
+
+### Fechas importante (2019)
+* Comienzo del curso: Miércoles 21 de Agosto
 
 ## Horarios
 * Miércoles 18 a 21 hs
