@@ -31,22 +31,24 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 * [Lista Web TUPAR](https://groups.google.com/forum/#!forum/web-tupar)
 
 ## TP Especial
-* [Planilla TP](https://docs.google.com/spreadsheets/d/1RZGINbcWps2Lm-d0Z0b-RoO-KRC3PB8GWJDxGUBf_8Q/edit?usp=sharing)
+* [Planilla TP](https://docs.google.com/spreadsheets/d/1IeDIP41mUUqU8c1q9qztlejaIELn9uZT9WvroR0wlVk/edit#gid=0)
 ### Primera Entrega TP Especial
-Miercoles 31 de Octubre de 18 a 21hs
 Entrega acorde a la Planilla de TP.
+- Fecha segun cronograma
 - Repositorio de GIT
 - Ambiente de Docker para correr la app
 - Continuous Integration (Al menos 1 unit test y 1 browser test)
 - Reportes de Code Quality: Code Coverage, Static Code Analysis.
 
-## Slides
-* [Intro a la Materia](https://docs.google.com/presentation/d/1cKNHMouFVnLyVN2r84s5ZPp4qrBTmOy6EnGaP0Zcp5Y/edit?usp=sharing)
+## Slides 2019
+* [Intro a la Materia](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit)
 * [Intro DevOps](https://docs.google.com/presentation/d/1NiAHg6OEWfenwKpXPR4GuF6BSpzooSRygwuvcb5zXNA/edit?usp=sharing)
-* [Docker](https://docs.google.com/presentation/d/1Vy6YNAyf0m4TxSnXgDZQ6to3enJ4sABaNypviw_ApI0/edit?usp=sharing)
-* [GIT](https://docs.google.com/presentation/d/1Zjg0tZ8OU1ZIfATVgRilxTdgDYOSC_lGRmHriaNdeqU/edit#slide=id.p73)
-* [Test + Continuous Integration](https://docs.google.com/presentation/d/1ilapjhoV9VMpNLqBgxlXnOyr_jnvc8qoB4fZphOeUeI/edit?usp=sharing)
-* [Code Quality](https://docs.google.com/presentation/d/1VGrtGOMmbNy-BBryiNqyVNKUKV59wwhbnLZUjSRGRtY/edit?usp=sharing)
+* [Docker](https://docs.google.com/presentation/d/1hWwcy0jwaX7lhG1YIOZ7Dc0ol6raOJVP6efA7FEArmQ/edit)
+* [GIT](https://docs.google.com/presentation/d/19-JXJ7yYbOi9qy4Y9VnYjQajs2ck6u9gusO0eFjut_w/edit)
+* [Test + Continuous Integration](https://docs.google.com/presentation/d/1woiycioR51KGziMyz9UJp5hdIlqGIDIYBXyOOojQ_og/edit)
+* [Code Quality](https://docs.google.com/presentation/d/1jTUbOA3zw0W0VHssNCN2UmUUyxCOk10h4pMBPsgeurU/edit)
+
+## Slides 2018
 * [Deployment](https://docs.google.com/presentation/d/1OaubIrUH7FYAnMmeA4aZJHnYOfZevtF0SYELhsAHR28/edit?usp=sharing)
 * [Docker Deployment + CD Advanced](https://docs.google.com/presentation/d/1Mwwik_7Pn8tg8RT4e45s-CHzqegYWCGTMHVB_yqMFeQ/edit?usp=sharing)
 * [Monitoring](https://docs.google.com/presentation/d/1Q__F1zU4AINvv-BlgXdw_VEjpuYcqviyOOxptU7bJoU/edit?usp=sharing)
