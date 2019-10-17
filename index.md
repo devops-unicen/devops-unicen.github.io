@@ -47,6 +47,8 @@ Entrega acorde a la Planilla de TP.
 * [GIT](https://docs.google.com/presentation/d/19-JXJ7yYbOi9qy4Y9VnYjQajs2ck6u9gusO0eFjut_w/edit)
 * [Test + Continuous Integration](https://docs.google.com/presentation/d/1woiycioR51KGziMyz9UJp5hdIlqGIDIYBXyOOojQ_og/edit)
 * [Code Quality](https://docs.google.com/presentation/d/1jTUbOA3zw0W0VHssNCN2UmUUyxCOk10h4pMBPsgeurU/edit)
+* [Continuous Deployment](https://docs.google.com/presentation/d/1MlvJOteXMzE5nqbtVJs15hRpDt5qSAUBmI01UH4wVD0/edit?usp=sharing)
+
 
 ## Slides 2018
 * [Deployment](https://docs.google.com/presentation/d/1OaubIrUH7FYAnMmeA4aZJHnYOfZevtF0SYELhsAHR28/edit?usp=sharing)
