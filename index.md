@@ -40,6 +40,9 @@ Entrega acorde a la Planilla de TP.
 - Continuous Integration (Al menos 1 unit test y 1 browser test)
 - Reportes de Code Quality: Code Coverage, Static Code Analysis.
 
+## Videos 2019
+[Playlist en YouTube](https://www.youtube.com/playlist?list=PLWrcdS95xApk2XtwZ56ogsOb8U5XZ8VZb)
+
 ## Slides 2019
 * [Intro a la Materia](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit)
 * [Intro DevOps](https://docs.google.com/presentation/d/1NiAHg6OEWfenwKpXPR4GuF6BSpzooSRygwuvcb5zXNA/edit?usp=sharing)
