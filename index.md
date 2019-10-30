@@ -15,6 +15,7 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 
 ### Fechas importante (2019)
 * Comienzo del curso: Miércoles 21 de Agosto
+* 6 de Noviembre 2019 - Entrega de LTs
 
 ## Horarios
 * Miércoles 18 a 21 hs
@@ -29,6 +30,11 @@ En este sitio vas a encontrar toda la información del curso Optativo DevOps - U
 
 ## Lista de Distribución
 * [Lista Web TUPAR](https://groups.google.com/forum/#!forum/web-tupar)
+
+## LTs 
+* [Lista de LTs](https://docs.google.com/spreadsheets/d/12bH9SgjWaA0mNvMwSbkCVCKslFo42xBKCEzhW5bJtJE/edit#gid=932572803)
+
+**Se entrega el 6 de Noviembre**
 
 ## TP Especial
 * [Planilla TP](https://docs.google.com/spreadsheets/d/1IeDIP41mUUqU8c1q9qztlejaIELn9uZT9WvroR0wlVk/edit#gid=0)
